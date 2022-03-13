@@ -50,6 +50,11 @@
       Profiling applications for memory usage, performance.
       SAFe (Scaled Agile).
 
+    + July 2019 - September 2020
+      Developer, Tomsk Polytechnic University
+
+      Contract with internal Russian's structures. Desktop application with C#, .NET, EF, WPF.
+
     + Febrary 2015 - August 2019
       Software Engineer (C\++, Java), Startext GmbH
 
